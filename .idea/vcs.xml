@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/example01" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos/MisterBoooLeetCodeAnimation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos/SnailclimbJavaGuide" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos/doocsadvanced-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos/iluwatarjava-design-patterns" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/repos/spring-projectsspring-boot" vcs="Git" />
+  </component>
+</project>
